@@ -8,3 +8,11 @@
 - Trang tác giả:
 - Các bảng cơ sở dữ liệu:
 - Mối quan hệ giữa các bảng:
+Bảng chủ đề:
+!Image(chude.png)
+Bảng tác giả:
+!Image(tacgia.png)
+Bảng tin tức:
+!Image(tintuc.png)
+Bảng mối quan hệ:
+!Image(repo.png)
