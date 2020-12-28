@@ -9,10 +9,10 @@
 - Các bảng cơ sở dữ liệu:
 - Mối quan hệ giữa các bảng:
 Bảng chủ đề:
-!Image(chude.png)
+![Image](chude.png)
 Bảng tác giả:
-!Image(tacgia.png)
+![Image](tacgia.png)
 Bảng tin tức:
-!Image(tintuc.png)
+![Image](tintuc.png)
 Bảng mối quan hệ:
-!Image(repo.png)
+![Image](repo.png)
