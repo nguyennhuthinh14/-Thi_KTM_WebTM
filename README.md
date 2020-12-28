@@ -11,8 +11,8 @@
 ![Image](TG.png)
 - Trang mục chỉnh sửa:
 ![Image](chinhsua1.jpg)
-- Các bảng cơ sở dữ liệu:<br>
-Bảng chủ đề:
+- Các bảng cơ sở dữ liệu:
+<br>Bảng chủ đề:
 ![Image](chude.png)<br>
 Bảng tác giả:
 ![Image](tacgia.png)<br>
