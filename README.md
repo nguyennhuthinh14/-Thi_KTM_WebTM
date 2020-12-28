@@ -15,7 +15,7 @@
 Bảng chủ đề:
 ![Image](chude.png)<br>
 Bảng tác giả:
-![Image](tacgia.png)
+![Image](tacgia.png)<br>
 Bảng tin tức:
 ![Image](tintuc.png)
 - Mối quan hệ giữa các bảng:
