@@ -10,7 +10,7 @@
 - Trang tác giả:
 ![Image](TG.png)
 - Trang mục chỉnh sửa:
-![Image](chinhsua1.png)
+![Image](chinhsua1.jpg)
 - Các bảng cơ sở dữ liệu:
 Bảng chủ đề:
 ![Image](chude.png)
