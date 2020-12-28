@@ -13,7 +13,7 @@
 ![Image](chinhsua1.jpg)
 - Các bảng cơ sở dữ liệu:
 <h2>Bảng chủ đề:</h2>
-<img src="https://https://github.com/nguyennhuthinh14/-Thi_KTM_WebTM/blob/master/chude.png" />
+![Image](chude.png)
 <h2>Bảng tác giả:</h2>
 <img src="https://https://github.com/nguyennhuthinh14/-Thi_KTM_WebTM/blob/master/tacgia.png" />
 <h2>Bảng tin tức:</h2>
