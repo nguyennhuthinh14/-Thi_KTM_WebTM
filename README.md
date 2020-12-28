@@ -12,11 +12,11 @@
 - Trang mục chỉnh sửa:
 ![Image](chinhsua1.jpg)
 - Các bảng cơ sở dữ liệu:
-Bảng chủ đề:
+<h2>Bảng chủ đề:</h2>
 ![Image](chude.png)
-Bảng tác giả:
+<h2>Bảng tác giả:</h2>
 ![Image](tacgia.png)
-Bảng tin tức:
+<h2>Bảng tin tức:</h2>
 ![Image](tintuc.png)
 - Mối quan hệ giữa các bảng:
 ![Image](repo.png)
